@@ -13,7 +13,10 @@ Sci-fi is a working progest and is in its first stage. When i get it brush up I 
 
 - All Logo graphics are from the spare theme made by Matt Kennedy.
 
-
+##Warning
+IT PROBABLY DOESN'T WORK
+I HAVENT TESTED IT OUT
+AND IT SUCKS
 
 ##Changelog
 
